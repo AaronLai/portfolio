@@ -77,7 +77,7 @@ export class AppComponent {
     result+='<div class="project-media">'
     for(let content of project.contents){
       if(content.type=='img'){
-        result+='<img class="img-responsive img-center" src="'+content.img+'" alt="" />'
+        result+='<img class="img-responsive img-center" src="'+content['img']+'" alt="" />'
 
       }
 
