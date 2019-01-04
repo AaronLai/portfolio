@@ -50,68 +50,7 @@ export class AppComponent {
 
 
     },
-    {
-      "name": "Cash CharTrader",
-      "tag": "native",
-      "caption": "iOS",
-      "logoUrl": "assets/images/projects/ct.png",
-      "contents": [
-        {
-          "type": "img",
-          img: "assets/images/projects/ct-d1.jpg"
-
-
-        },
-        {
-          "type": "text",
-          "text": "Role"
-        }
-      ],
-
-      stacks: ["Objective C"]
-    },
-    {
-      "name": "Cash Alertme",
-      "tag": "native",
-      "caption": "iOS & Android",
-      "logoUrl": "assets/images/projects/am.png",
-      "contents": [
-        {
-          "type": "img",
-          img: "assets/images/projects/am-d1.jpg"
-
-
-        },
-        {
-          "type": "text",
-          "text": "Role"
-        }
-      ],
-      
-
-      stacks: ["Objective C", "Android"]
-    },
-    {
-      "name": "Cash BigTeaRice",
-      "tag": "native",
-      "caption": "iOS & Android",
-      "logoUrl": "assets/images/projects/btr.png",
-      "contents": [
-        {
-          "type": "img",
-          img: "assets/images/projects/btr-d1.jpg"
-
-
-        },
-        {
-          "type": "text",
-          "text": "Role"
-        }
-      ]
-      ,
-
-      stacks: ["Objective C", "Android"]
-    },
+  
     {
       "name": "Cash RealTimeQuote",
       "tag": "hybrid",
@@ -197,11 +136,11 @@ export class AppComponent {
       "name": "Citifun",
       "tag": "hybrid , web , fullstack",
       "caption": "iOS & Android & Web ",
-      "logoUrl": "assets/images/projects/citifun.png",
+      "logoUrl": "assets/images/citistore.png",
       "contents": [
         {
           "type": "img",
-          img: "assets/images/projects/cf-d1.jpg"
+          img: "assets/images/citifun.jpg"
 
 
         },
