@@ -50,7 +50,6 @@ export class AppComponent {
 
 
     },
-  
     {
       "name": "Cash RealTimeQuote",
       "tag": "hybrid",
