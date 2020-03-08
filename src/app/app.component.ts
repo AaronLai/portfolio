@@ -92,6 +92,89 @@ export class AppComponent {
 
     },
     {
+      "name": "Citifun",
+      "tag": "hybrid, fullstack",
+      "caption": "iOS & Android & Web ",
+      "logoUrl": "assets/images/citistore.png",
+      "contents": [
+        {
+          "type": "img",
+          img: "assets/images/citifun.jpg"
+
+
+        },
+        {
+          "type": "text",
+          "text": "Role"
+        }
+      ],
+      stacks: ["Objective C", "Android"]
+
+    },
+    {
+      "name": "The Rink",
+      "tag": "reactnative , fullstack",
+      "caption": "iOS & Android & Full stack",
+      "logoUrl": "assets/images/projects/therink.png",
+      "contents": [
+        {
+          "type": "img",
+          img: "assets/images/projects/tr-d1.jpg"
+
+
+        },
+        {
+          "type": "text",
+          "text": "Role"
+        }
+      ],
+      stacks: ["reactnative", "expo" ,"redis" ,"mongoDb" ,"node.js"  ]
+
+    },
+    {
+      "name": "Sei Hub",
+      "tag": "reactnative , fullstack",
+      "caption": "iOS & Android",
+      "logoUrl": "assets/images/projects/seihub.png",
+      "contents": [
+        {
+          "type": "img",
+          img: "assets/images/projects/seihub.jpg"
+
+
+        },
+        {
+          "type": "text",
+          "text": "Role"
+        }
+      ],
+      stacks: ["reactnative", "expo" ]
+
+    }
+    ,
+    
+    
+    {
+      "name": "Alpha I ",
+      "tag": "reactnative",
+      "caption": "iOS & Android",
+      "logoUrl": "assets/images/projects/alphai.png",
+      "contents": [
+        {
+          "type": "img",
+          img: "assets/images/projects/alphiscreen.png"
+
+
+        },
+        {
+          "type": "text",
+          "text": "Role"
+        }
+      ],
+      stacks: ["reactnative", "expo" ,"redis" ,"mongoDb" ,"node.js"  ]
+
+    },
+    {
       "name": "Jobdoh empolyee",
       "tag": "hybrid , fullstack",
       "caption": "iOS & Android",
@@ -131,52 +214,6 @@ export class AppComponent {
       stacks: ["Objective C", "Android"]
 
     },
-    {
-      "name": "Citifun",
-      "tag": "hybrid , web , fullstack",
-      "caption": "iOS & Android & Web ",
-      "logoUrl": "assets/images/citistore.png",
-      "contents": [
-        {
-          "type": "img",
-          img: "assets/images/citifun.jpg"
-
-
-        },
-        {
-          "type": "text",
-          "text": "Role"
-        }
-      ],
-      stacks: ["Objective C", "Android"]
-
-    },
-    {
-      "name": "The Rink",
-      "tag": "hybrid , fullstack",
-      "caption": "iOS & Android & Full stack",
-      "logoUrl": "assets/images/projects/therink.png",
-      "contents": [
-        {
-          "type": "img",
-          img: "assets/images/projects/tr-d1.jpg"
-
-
-        },
-        {
-          "type": "text",
-          "text": "Role"
-        }
-      ],
-      stacks: ["ionic 3", "angular 4" ,"redis" ,"mongoDb" ,"node.js v9"  ]
-
-    }
-
-
-
-
-
-
 
   ]
 
