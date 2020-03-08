@@ -133,7 +133,7 @@ export class AppComponent {
     },
     {
       "name": "Sei Hub",
-      "tag": "reactnative , fullstack",
+      "tag": "reactnative",
       "caption": "iOS & Android",
       "logoUrl": "assets/images/projects/seihub.png",
       "contents": [
@@ -162,7 +162,7 @@ export class AppComponent {
       "contents": [
         {
           "type": "img",
-          img: "assets/images/projects/alphiscreen.png"
+          img: "assets/images/projects/alphiscreen.jpg"
 
 
         },
